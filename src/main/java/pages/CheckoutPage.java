@@ -19,7 +19,7 @@ import java.util.List;
 	        private By itemTotal = By.className("summary_subtotal_label");
 	        private By tax = By.className("summary_tax_label");
 	        private By total = By.className("summary_total_label");
-	        private By itemPriceElements = By.className("inventory_item_price"); // Assumed locator
+	        private By itemPriceElements = By.className("inventory_item_price"); 
 
 	        public CheckoutPage(WebDriver driver) {
 	            this.driver = driver;
