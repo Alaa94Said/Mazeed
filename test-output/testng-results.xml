@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-24T14:00:57 EET" name="Default suite" finished-at="2025-03-24T14:02:05 EET" duration-ms="68053">
+    <groups>
+    </groups>
+    <test started-at="2025-03-24T14:00:57 EET" name="Default test" finished-at="2025-03-24T14:02:05 EET" duration-ms="68053">
+      <class name="tests.SwageLabTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:00:57 EET" name="setUp" finished-at="2025-03-24T14:01:12 EET" duration-ms="15265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginFlowTest()[pri:1, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:13 EET" name="loginFlowTest" finished-at="2025-03-24T14:01:19 EET" duration-ms="6311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFlowTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:19 EET" name="tearDown" finished-at="2025-03-24T14:01:19 EET" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:19 EET" name="setUp" finished-at="2025-03-24T14:01:33 EET" duration-ms="13912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToCartFlowTest()[pri:2, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:33 EET" name="addToCartFlowTest" finished-at="2025-03-24T14:01:41 EET" duration-ms="7884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartFlowTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:41 EET" name="tearDown" finished-at="2025-03-24T14:01:41 EET" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:41 EET" name="setUp" finished-at="2025-03-24T14:01:54 EET" duration-ms="13004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="receiptAmountAssertionTest()[pri:3, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:01:54 EET" name="receiptAmountAssertionTest" finished-at="2025-03-24T14:02:05 EET" duration-ms="11140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- receiptAmountAssertionTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SwageLabTest@e5c2463]" started-at="2025-03-24T14:02:05 EET" name="tearDown" finished-at="2025-03-24T14:02:05 EET" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SwageLabTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
